@@ -1,6 +1,6 @@
 # AStarSearch
 
-Hi this is a Java AStarSearch Java Program in the course of artificial intelligent
+Hi, this is a A* search algorithm implemented in Jave code which is also the coursework of artificial intelligent in 2017
 
 source code file(s) may be put in a password protected ZIP file to prevent plagiarism
 
