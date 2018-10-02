@@ -1,6 +1,6 @@
 # AStarSearch
 
-Hi, this is a A* search algorithm implemented in Jave code which is also the coursework of Artificial Intelligent in 2017
+Hi, this is a A* search algorithm implemented in Jave code which is also a coursework of Artificial Intelligent in 2017
 
 source code file(s) may be put in a password protected ZIP file to prevent plagiarism
 
