@@ -9,8 +9,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 
-//Written by Ashwin Rajendran and Chi Wai Kong 
-
 class Node {
 
     int package_array[][] = new int[3][3];
@@ -262,19 +260,6 @@ public class AStarSearch {
 
             createChildren(openlist, closedlist, openlist.get(0));
         }
-
-//        System.out.println("Open List:");
-//        for (int i = 0; i < openlist.size(); i++) {
-//            System.out.println("    STATE: " + (i + 1));
-//            printState(openlist.get(i));
-//        }
-//        System.out.println("Closed List:");
-//        for (int i = 0; i < closedlist.size(); i++) {
-//            System.out.println("    STATE: " + (i + 1));
-//            printState(closedlist.get(i));
-//        }
-//   System.out.println("FINAL");
-//   printState(openlist.get(0));
         
         contructPath(final_node, path);
         printPath(path);
